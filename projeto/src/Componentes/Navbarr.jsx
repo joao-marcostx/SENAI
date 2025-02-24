@@ -16,7 +16,7 @@ const Navbarr = () => {
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#features">Sobre nós</Nav.Link>
-            <Nav.Link href="#pricing">Curso</Nav.Link>
+            <Nav.Link href="/CadastararCurso">Curso</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
